@@ -1,0 +1,15 @@
+[{
+    "nombre":"juan",
+    "puesto":"programador",
+    "edad":22
+},
+{
+    "nombre":"maria",
+    "puesto":"programador",
+    "edad":26
+},
+{
+    "nombre":"elena",
+    "puesto":"contador",
+    "edad":30
+}]
